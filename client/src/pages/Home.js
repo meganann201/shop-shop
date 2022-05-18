@@ -6,6 +6,7 @@ import Cart from "../components/Cart";
 const Home = () => {
   return (
     <div className="container">
+      test
       <CategoryMenu />
       <ProductList />
       <Cart />
